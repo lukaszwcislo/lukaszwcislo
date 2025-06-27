@@ -2,7 +2,7 @@
 
 I am a programming enthusiast, specializing in modern web technologies.
 
-### Technologies:
+### Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,cs" height="48" />
