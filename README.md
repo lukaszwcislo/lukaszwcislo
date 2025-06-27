@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-I am a programming enthusiast, specializing in modern web technologies.
+I am a programming enthusiast, specializing in modern web technologies.<br>
+I also deal with graphic design, web design, <br>broadly understood digital marketing & online business.
 
-### Technologies
+## Technologies
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ts,js,angular,nodejs,cs" height="48" />
