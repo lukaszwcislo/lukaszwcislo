@@ -11,4 +11,7 @@ I also deal with graphic design, web design, <br>broadly understood digital mark
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nestjs,postgresql,vscode,figma,wordpress" height="48" />
 </p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=npm,gulp,webpack,html,scss" height="48" />
+</p>
 
