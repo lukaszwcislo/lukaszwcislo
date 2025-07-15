@@ -15,7 +15,5 @@ I also deal with graphic design, web design, <br>broadly understood digital mark
   <img src="https://skillicons.dev/icons?i=npm,gulp,webpack,html,scss" height="48" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
 <a href="https://capsy.io/lukaszwcislo/dev" target="_blank">lukaszwcislo/dev 🚀💻</a>
 
